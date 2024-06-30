@@ -17,10 +17,10 @@ function lovefunc(flower1, flower2){
 ```
 ## Experience:
 I'm currently going through the same thing:
-    * freecodecamp
-    * sandbox
-    * codewars
-    * courses from the Incubator (I'm planning to start)
+* freecodecamp
+* sandbox
+* codewars
+* courses from the Incubator (I'm planning to start)
 ## Education:
  I am entering my second year at Minsk State Technical College
 ## English 
