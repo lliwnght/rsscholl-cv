@@ -21,3 +21,7 @@ I'm currently going through the same thing:
     * sandbox
     * codewars
     * courses from the Incubator (I'm planning to start)
+## Education:
+ I am entering my second year at Minsk State Technical College
+## English 
+B1 (studied English at school and college. I also studied with a tutor, also, independent learning of English (watching films, reading simple articles))
